@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.0.3)
+    redis (4.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack
+  redis
+
+BUNDLED WITH
+   1.16.0
